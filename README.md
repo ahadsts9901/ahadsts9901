@@ -1,5 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadsts9901&label=Profile%20views&color=0e75b6&style=flat" alt="ahadsts9901" /> </p>
 
+<h1 align="center">Hi 👋, I'm Muhammad Ahad</h1>
+<h3 align="center">A passionate full stack developer from Pakistam</h3>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulahad.ansari.1481) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahad-3136b1236) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23125654/muhammad-ahad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahadsts) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23323300.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/ahadsts990/) 
