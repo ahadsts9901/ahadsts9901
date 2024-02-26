@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahadsts9901&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahadsts9901&theme=dark&hide_border=true&show_icons=true&count_private=true">
 </div>
 
 <br/>
