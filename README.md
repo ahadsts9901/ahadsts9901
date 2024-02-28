@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-<a href="https://facebook.com/abdulahad.ansari.1481"> <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"> </a> <a href="https://linkedin.com/in/muhammad-ahad-3136b1236"> <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://stackoverflow.com/users/23125654/muhammad-ahad"> <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"> </a> <a href="https://youtube.com/@ahadsts"> <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"> </a> 
+<a href="https://linkedin.com/in/muhammad-ahad-3136b1236"> <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://stackoverflow.com/users/23125654/muhammad-ahad"> <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"> </a> <a href="https://youtube.com/@ahadsts"> <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"> </a> 
 <a href="https://leetcode.com/ahadsts990/"> <img align="center" src="https://img.shields.io/badge/LeetCode-%23323300.svg?logo=LeetCode&logoColor=white" alt="LeetCode"> </a> 
 </div>
 
