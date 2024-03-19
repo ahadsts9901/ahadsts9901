@@ -36,6 +36,11 @@
 
 <br/>
 
+## 💡 I am currently learning
+
+<img src="https://skillicons.dev/icons?i=react" />
+<h3>React Native</h3>
+
 ## 📊 GitHub Stats:
 
 <br/>
