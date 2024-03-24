@@ -51,7 +51,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=kubernetes,opencv,mysql,bun,postgres,redis" />
 <br>
-<img src="https://skillicons.dev/icons?i=c,python,googlecloud,wasm" />
+<img src="https://skillicons.dev/icons?i=c,python,googlecloud,wasm,vuejs,angular" />
  <br>
 </p>
 
