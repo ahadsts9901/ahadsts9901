@@ -49,9 +49,9 @@
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=git,docker,graphql,threejs,aws,jest" />
 <br>
-<img src="https://skillicons.dev/icons?i=kubernetes,opencv,mysql,bun,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=kubernetes,opencv,mysql,googlecloud,postgres,redis" />
 <br>
-<img src="https://skillicons.dev/icons?i=c,python,googlecloud,wasm,vuejs,angular" />
+<img src="https://skillicons.dev/icons?i=c,python,wasm,vuejs,angular" />
  <br>
 </p>
 
