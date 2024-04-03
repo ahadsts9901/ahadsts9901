@@ -38,19 +38,19 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=react" />
-<h3>React Native</h3>
+<img src="https://skillicons.dev/icons?i=react,mysql" />
+<h3>React Native | My SQL</h3>
 
 ## 🎯 Plans Of Learning:
 
 <br/>
 
 <p align='center'>
-<img src="https://skillicons.dev/icons?i=mysql,docker,graphql,threejs,aws,jest" />
+<img src="https://skillicons.dev/icons?i=docker,graphql,threejs,aws,jest,kubernetes" />
 <br>
-<img src="https://skillicons.dev/icons?i=kubernetes,opencv,googlecloud,postgres,redis,wasm" />
+<img src="https://skillicons.dev/icons?i=opencv,googlecloud,postgres,redis,wasm,c" />
 <br>
-<img src="https://skillicons.dev/icons?i=c,python,vuejs,angular" />
+<img src="https://skillicons.dev/icons?i=python,vuejs,angular" />
  <br>
 </p>
 
