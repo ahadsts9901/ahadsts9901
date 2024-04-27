@@ -51,7 +51,9 @@
 <br>
 <img src="https://skillicons.dev/icons?i=opencv,googlecloud,postgres,redis,wasm,c" />
 <br>
-<img src="https://skillicons.dev/icons?i=python,vuejs,angular" />
+<img src="https://skillicons.dev/icons?i=python,vuejs,angular,prisma" />
+<!-- <br>
+<img src="https://skillicons.dev/icons?i=swagger,nginix" /> -->
  <br>
 </p>
 
