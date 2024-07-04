@@ -40,8 +40,8 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=react,mysql" />
-<h3>React Native | My SQL</h3>
+<img src="https://skillicons.dev/icons?i=react,mysql,python" />
+<h3>React Native | My SQL | Python</h3>
 
 ## 🎯 Plans Of Learning:
 
@@ -52,7 +52,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=opencv,googlecloud,postgres,redis,wasm,c" />
 <br>
-<img src="https://skillicons.dev/icons?i=python,vuejs,angular,prisma" />
+<img src="https://skillicons.dev/icons?i=vuejs,angular,prisma,django" />
 <!-- <br>
 <img src="https://skillicons.dev/icons?i=swagger,nginix" /> -->
  <br>
