@@ -42,17 +42,17 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=react,python" />
-<h3>React Native | Python</h3>
+<img src="https://skillicons.dev/icons?i=react,python,docker,graphql" />
+<h3>React Native | Python | Docker | GraphQL</h3>
 
 ## 🎯 Plans Of Learning:
 
 <br/>
 
 <p align='center'>
-<img src="https://skillicons.dev/icons?i=docker,aws,jest,kubernetes,angular,vuejs" />
+<img src="https://skillicons.dev/icons?i=c,aws,jest,kubernetes,angular,vuejs" />
 <br>
-<img src="https://skillicons.dev/icons?i=opencv,googlecloud,django,redis,wasm,c" />
+<img src="https://skillicons.dev/icons?i=opencv,googlecloud,django,redis,wasm" />
 <!-- <br>
 <img src="https://skillicons.dev/icons?i=swagger,nginix" /> -->
  <br>
