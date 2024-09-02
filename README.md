@@ -54,7 +54,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=opencv,googlecloud,django,wasm" />
 <!-- <br>
-<img src="https://skillicons.dev/icons?i=swagger,nginix" /> -->
+<img src="https://skillicons.dev/icons?i=nginix,fastify,chatbot" /> -->
  <br>
 </p>
 
