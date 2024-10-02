@@ -52,9 +52,11 @@
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=c,redis,jest,kubernetes,angular,vuejs" />
 <br>
-<img src="https://skillicons.dev/icons?i=opencv,googlecloud,django,wasm" />
+<img src="https://skillicons.dev/icons?i=opencv,googlecloud,django,wasm,nuxtjs,svelte" />
+<br>
+<img src="https://skillicons.dev/icons?i=flutter" />
 <!-- <br>
-<img src="https://skillicons.dev/icons?i=nginix,fastify,chatbot" /> -->
+<img src="https://skillicons.dev/icons?i=nginix,chatbot" /> -->
  <br>
 </p>
 
