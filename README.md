@@ -50,7 +50,7 @@
 <p align='center'>
 <img src="https://skillicons.dev/icons?i=c,redis,jest,kubernetes,angular,vuejs" />
 <br>
-<img src="https://skillicons.dev/icons?i=opencv,flutter,django,wasm,nuxtjs,svelte" />
+<img src="https://skillicons.dev/icons?i=flutter,django,wasm,nuxtjs,svelte" />
 <!-- <br>
 <img src="https://skillicons.dev/icons?i=nginix,chatbot" /> -->
  <br>
