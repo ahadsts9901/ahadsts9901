@@ -1,4 +1,3 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadsts9901&label=Profile%20views&color=0e75b6&style=flat" alt="ahadsts9901" /></p>
 <p align="left"> <img src="https://user-badge.committers.top/pakistan/ahadsts9901.svg" alt="ahadsts9901" /></p>
 <h1 align="center">Hi 👋, I'm Muhammad Ahad</h1>
@@ -42,7 +41,7 @@
 ## 💡 I am currently learning
 
 <img src="https://skillicons.dev/icons?i=python,docker,aws" />
-<h3>Python | Docker | AWS</h3>
+<h3>Python | Docker | AWS | DSA</h3>
 
 ## 🎯 Plans Of Learning:
 
