@@ -43,7 +43,7 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=python,docker,aws" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,aws" />
 <h3>Python | Docker | AWS | DSA</h3>
 
 ## 🎯 Plans Of Learning:
