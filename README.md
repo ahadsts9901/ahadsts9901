@@ -54,6 +54,8 @@
 <img src="https://skillicons.dev/icons?i=c,redis,kubernetes,angular,vuejs" />
 <br>
 <img src="https://skillicons.dev/icons?i=flutter,wasm,nuxtjs,svelte,jenkins" />
+<br>
+<img src="https://skillicons.dev/icons?i=gitlab" />
 <!-- <br>
 <img src="https://skillicons.dev/icons?i=nginix,chatbot" /> -->
  <br>
