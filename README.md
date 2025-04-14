@@ -55,9 +55,9 @@
 <br>
 <img src="https://skillicons.dev/icons?i=flutter,wasm,nuxtjs,svelte,jenkins" />
 <br>
-<img src="https://skillicons.dev/icons?i=gitlab" />
+<img src="https://skillicons.dev/icons?i=gitlab,kafka,nginx" />
 <!-- <br>
-<img src="https://skillicons.dev/icons?i=nginix,chatbot" /> -->
+<img src="https://skillicons.dev/icons?i=nginix" /> -->
  <br>
 </p>
 
