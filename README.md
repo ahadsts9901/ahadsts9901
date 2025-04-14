@@ -43,8 +43,8 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=django,docker" />
-<h3>Django | Docker | DSA</h3>
+<img src="https://skillicons.dev/icons?i=django,docker,nginx" />
+<h3>Django | Docker | Nginx | DSA</h3>
 
 ## 🎯 Plans Of Learning:
 
@@ -55,7 +55,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=flutter,wasm,nuxtjs,svelte,jenkins" />
 <br>
-<img src="https://skillicons.dev/icons?i=gitlab,kafka,nginx" />
+<img src="https://skillicons.dev/icons?i=gitlab,kafka" />
 <!-- <br>
 <img src="https://skillicons.dev/icons?i=route53,certbot,aws-rds" /> -->
  <br>
