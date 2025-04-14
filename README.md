@@ -57,7 +57,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=gitlab,kafka,nginx" />
 <!-- <br>
-<img src="https://skillicons.dev/icons?i=nginix" /> -->
+<img src="https://skillicons.dev/icons?i=route53,certbot,aws-rds" /> -->
  <br>
 </p>
 
