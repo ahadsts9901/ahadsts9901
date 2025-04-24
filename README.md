@@ -56,7 +56,9 @@
 <br>
 <img src="https://skillicons.dev/icons?i=flutter,wasm,nuxtjs,svelte,jenkins" />
 <br>
-<img src="https://skillicons.dev/icons?i=gitlab,django,angular" />
+<img src="https://skillicons.dev/icons?i=gitlab,django,angular,terraform,ansible" />
+<br>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 <!-- <br>
 <img src="https://skillicons.dev/icons?i=aws-rds" /> -->
  <br>
