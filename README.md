@@ -45,8 +45,7 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=django,angular" />
-<h3>Django | Angular | DSA</h3>
+<h3>DSA</h3>
 
 ## 🎯 Plans Of Learning:
 
@@ -57,7 +56,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=flutter,wasm,nuxtjs,svelte,jenkins" />
 <br>
-<img src="https://skillicons.dev/icons?i=gitlab" />
+<img src="https://skillicons.dev/icons?i=gitlab,django,angular" />
 <!-- <br>
 <img src="https://skillicons.dev/icons?i=aws-rds" /> -->
  <br>
