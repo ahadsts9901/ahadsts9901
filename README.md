@@ -56,11 +56,11 @@
 <br>
 <img src="https://skillicons.dev/icons?i=flutter,wasm,nuxtjs,svelte,jenkins" />
 <br>
-<img src="https://skillicons.dev/icons?i=gitlab,django,angular,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=gitlab,angular,terraform,ansible,grafana" />
 <br>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+<img src="https://skillicons.dev/icons?i=prometheus" />
 <!-- <br>
-<img src="https://skillicons.dev/icons?i=aws-rds" /> -->
+<img src="https://skillicons.dev/icons?i=numpy, pandas" /> -->
  <br>
 </p>
 
